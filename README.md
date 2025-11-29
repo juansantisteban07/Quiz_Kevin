@@ -5,3 +5,5 @@
 2. 👅 Bse de datos: Conjunto organizado de informacion almacenada electronicamente.
 
 3. 😸 Bid data: Manejo de grandes volúmenes de datos que requieren técnicas avanzadas de procesamiento.
+
+4. 🫵🏼 Binario: Sistema numerico basado en 0 y 1 usado por las computadoras.
